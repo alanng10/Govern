@@ -47,3 +47,5 @@ Govern has park kind arch benefit.
 Govern has park kind arch marry.
 
 Govern has park kind arch land.
+
+Govern has major.
