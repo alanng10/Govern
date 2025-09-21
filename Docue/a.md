@@ -61,3 +61,5 @@ Govern has major on share.
 Govern has require.
 
 Govern require share gain.
+
+Govern require base on total done.
