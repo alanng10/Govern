@@ -57,3 +57,7 @@ Govern has major.
 Govern has major on live.
 
 Govern has major on share.
+
+Govern has require.
+
+Govern require share gain.
