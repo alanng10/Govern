@@ -67,3 +67,12 @@ Govern require base on total done.
 Govern require resource share.
 
 Govern require base resource share.
+
+Govern word has spell.
+The spell is:
+"G" for Gain Share.
+"o" for operate any.
+"v" for vary time.
+"e" for effect all.
+"r" for radius total.
+"n" for never class.
