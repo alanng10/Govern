@@ -67,3 +67,5 @@ Govern require base on total done.
 Govern require resource share.
 
 Govern require base resource share.
+
+Govern not page express.
