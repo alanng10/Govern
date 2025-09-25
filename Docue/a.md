@@ -72,6 +72,8 @@ Govern require base legit.
 
 Govern require base legit depend.
 
+Govern require base share depend.
+
 Govern word has spell.
 The spell is:
 "G" for Gain Share.
